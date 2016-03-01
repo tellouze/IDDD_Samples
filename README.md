@@ -13,6 +13,7 @@ the book.
 Points of Interest
 ==================
 
+
 The iddd_agilepm project uses a key-value store as
 its underlying persistence mechanism, and in particular
 is LevelDB. Actually the LevelDB in use is a pure Java
